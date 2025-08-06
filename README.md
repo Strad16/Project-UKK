@@ -1,4 +1,4 @@
-Website ini merupakan sistem pelaporan masyarakat untuk menyampaikan aspirasi, keluhan, dan pengaduan kepada instansi terkait secara online. Sistem ini terinspirasi dari portal resmi LAPOR! milik pemerintah Indonesia.
+Website ini merupakan sistem pelaporan masyarakat untuk menyampaikan aspirasi, keluhan, dan pengaduan terkait secara online.
 
 Untuk Masyarakat:
 - Registrasi & Login
