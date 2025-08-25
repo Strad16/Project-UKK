@@ -22,3 +22,10 @@ Website ini merupakan sistem pelaporan masyarakat untuk menyampaikan aspirasi, k
 - Manajemen kategori laporan
 - Monitoring semua laporan dan tanggapan
 - Statistik laporan masuk, diproses, selesai
+
+## 🛠️ Teknologi yang Digunakan
+- PHP Native
+- MySQL
+- HTML + CSS + PHP
+
+  ## Use Case Diagram
