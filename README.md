@@ -31,3 +31,10 @@ Website ini merupakan sistem pelaporan masyarakat untuk menyampaikan aspirasi, k
   ## Use Case Diagram
   <img width="591" height="1090" alt="use crea" src="https://github.com/user-attachments/assets/0c95dbb6-bb4c-4571-80e1-fc37292d349c" />
 
+  ## 📐 ERD (Entity Relationship Diagram)
+  [Data Base UKK.pdf](https://github.com/user-attachments/files/21963209/Data.Base.UKK.pdf)
+
+  ## 🔁 Flowchart Aplikasi
+  <img width="3504" height="2194" alt="Flowchart" src="https://github.com/user-attachments/assets/26daf228-9b20-445a-9208-24e18e969ec6" />
+
+
