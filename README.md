@@ -29,7 +29,7 @@ Website ini merupakan sistem pelaporan masyarakat untuk menyampaikan aspirasi, k
 - HTML + CSS + PHP
 
   ## Use Case Diagram
-  <img width="591" height="1090" alt="use crea" src="https://github.com/user-attachments/assets/0c95dbb6-bb4c-4571-80e1-fc37292d349c" />
+  <img width="761" height="1191" alt="use care" src="https://github.com/user-attachments/assets/432a9b69-ab7e-49c3-94ab-9e1368b362fe" />
 
   ## 📐 ERD (Entity Relationship Diagram)
   <img width="1724" height="961" alt="Screenshot 2025-08-25 140448" src="https://github.com/user-attachments/assets/c552ff94-e8cb-44d0-b019-133ec845a3ec" />
