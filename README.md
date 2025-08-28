@@ -35,6 +35,7 @@ Website ini merupakan sistem pelaporan masyarakat untuk menyampaikan aspirasi, k
   <img width="1724" height="961" alt="Screenshot 2025-08-25 140448" src="https://github.com/user-attachments/assets/c552ff94-e8cb-44d0-b019-133ec845a3ec" />
   
   ## 🔁 Flowchart Aplikasi
-  <img width="3504" height="2194" alt="Flowchart" src="https://github.com/user-attachments/assets/26daf228-9b20-445a-9208-24e18e969ec6" />
+  <img width="841" height="2043" alt="Flowchart" src="https://github.com/user-attachments/assets/4a9d115e-334a-4286-9787-7eb0f6e00c98" />
+
 
 
